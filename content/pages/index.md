@@ -12,14 +12,14 @@ blocks:
       textStyles: 'text-white font-1 text-lg mb-11 '
       contentOrder: labelHeadingsContent
     background:
-      fillStyles: from-accent1 to-black bg-gradient-to-br
+      fillStyles: from-accent1 to-black bg-gradient-to-br opacity-100
     image:
       src: >-
         https://res.cloudinary.com/protocolai/image/upload/v1649882497/microgen/Hall_of_Fame_grccee_k39etu.png
       alt: Illustration of space shuttles
     label: ''
     headline: Singularity
-    subhead: A site builder for Web 3.0
+    subhead: A new tool for data onboarding on Filecoin
     body: >
       Make [modern web 3.0](#) ready websites with a real-time visual editor. An
       edit.
@@ -49,7 +49,7 @@ blocks:
       textStyles: 'text-gray-light undefined text-lg mb-0 '
       buttonType: primary
     background:
-      fillStyles: from-black to-accent1 bg-gradient-to-bl
+      fillStyles: from-black to-accent1 bg-gradient-to-bl opacity-100
     label: ''
     headline: Features
     subhead: ''
